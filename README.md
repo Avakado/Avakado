@@ -2,10 +2,11 @@
 
 _I am Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
 
-- Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
-- In Free time I am: Traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
-
 [Email](mailto:okidoki9710@gmail.com) / [Website](https://plantago.com.ua/) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx) / 
+
+- Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
+- In Free time I am: traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
+
 
 ## :muscle: Skills&Technologies
 `Vue.js` `Vuex` `PHP` `Vuetify` `Firebase` `Google Maps API` `ES6` `SCSS` `Gulp` `Git` `Adobe Photoshop` `Figma` `JavaScript` `GraphQL` `Docker` `Webpack` `Chart.js` `Ant Design` `Jest` `vee-validate` `Vuelidate` `Azure` `Vite` `Vue 3` `Mapbox` `Nuxt.js` `Tailwind` `TypeScript` `Laravel` `jQuery` `Apollo` `Pinia` `Quasar Framework` `D3.js`
