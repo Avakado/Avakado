@@ -2,7 +2,7 @@
 
 _I am Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
 
-[Email](mailto:okidoki9710@gmail.com) / [Website](https://plantago.com.ua/) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx) / 
+[Email](mailto:okidoki9710@gmail.com) / [Website](https://plantago.com.ua/) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx)
 
 - Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
 - In Free time I am: traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
@@ -14,10 +14,14 @@ _I am Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 :paperclip: **VueJS Engineer** [@Itera Research](https://www.linkedin.com/company/itera-research/mycompany/) _(Jun 2021 - Present)_ <br>
-  Worked in different teams with differt projects such as
+Worked in different teams with differt projects such as
+
 SmartCity: refactoring a part of the system that catching errors from the neural network that using to analise data from different divices of the city.
+
 Smart parfume control system for hotels : developed from the scratch frontend part of the admin panel for controling devices
+
 AI table convertor: Worked in the Ukrainian team, refactored sytem from old UI on vue2 to new UI with vue3 Quasar and Pinia
+
 Agro admin panel: developed from the scratch admin panel for remote farm conroling
   - **_Technologies used:_** vue, vue3, Quasar, element, pinia,vuex, tailwind
 <br><br>
@@ -57,11 +61,11 @@ Developed many different landing pages and multi-page websites, as well as pulli
 _This section about non comercial expirience and pet projects._
 <br><br>
 
-**Developer** of [PlantaGo](https://www.plantago.com.ua/) _(Apr 2020 - Present)_ <br>
+**Developer** of [PlantaGo](https://www.plantago.com.ua/) _(Aip 2020 - Present)_ <br>
 Hey, checkout my eco pet project. I develope it on my free time.
 It some kind of ecology navigator in city. I started develope it in Kharkiv when i lived there. Now I working on adding different cites of Ukraine.
 You can read more at [PlantaGo Telegram Channel](https://t.me/plantago_ua) 
-  - **_Technologies used:_** vue3, wordpress, jquery, google maps API
+  - **_Technologies used:_** vue3, tailwind, wordpress, jquery, google maps API
 <br><br>
 
 
