@@ -1,9 +1,9 @@
-# Hi there 👋 this is Michael!
+# Hi there 👋 this is Michael
 
-_I am Software Engineer from Kharkiv, Ukraine_ <br>
+_I am Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
 
- Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
-:ocean:In Free time I am: Traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
+- Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
+- In Free time I am: Traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
 
 [Email](mailto:okidoki9710@gmail.com) / [Website](https://plantago.com.ua/) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx) / 
 
@@ -41,12 +41,12 @@ Was engaged in the layout of landing pages for the needs of the company. Later, 
   - **_Technologies used:_** jquery, php, sql, bootstrap, sass, gulp
   <br><br>
 
-:paperclip: **Part-time Front-end Developer** @[Pixel] _(Jun 2017 – Sep 2017)_ <br>
+:paperclip: **Part-time Front-end Developer** @Pixel _(Jun 2017 – Sep 2017)_ <br>
 Developing Admin panel for the guard organization, which allows real-time monitoring of security calls and where the gbr are located at the moment. Got good experience with google maps api and firebase.
   - **_Technologies used:_** js + google maps api + firebase.
     <br><br>
 
-:paperclip: **Web Developer** @[Freelance] _(Jun 2016 – Jun 2017)_ <br>
+:paperclip: **Web Developer** @Freelance _(Jun 2016 – Jun 2017)_ <br>
 Developed many different landing pages and multi-page websites, as well as pulling them onto the WordPress. Mainly worked on freelance or got orders from acquaintances. For example 9september - cake landing page, one of the first project.Also developing html templates for email mailing. Had good experience with different email engine
   - **_Technologies used:_** jquery +  bootstrap + php.
     <br><br>
