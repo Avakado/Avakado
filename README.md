@@ -1,6 +1,6 @@
-# Hi there 👋 this is Michael
+# Michael Kuzmin
 
-_I am Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
+_Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
 
 [Email](mailto:okidoki9710@gmail.com) / [Website](https://plantago.com.ua/) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx)
 
