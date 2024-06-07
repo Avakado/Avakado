@@ -4,14 +4,14 @@ _Software Engineer_ <br>
 
 [Email](mailto:okidoki9710@gmail.com) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx)
 
-🙋‍♂️
-Experienced FrontEnd Engineer with BackEnd&DevOps skills.
-Solution architecture & problem solver as well as bug fixer.
-Project improver or scratch writer.
-Remote lover but office hasler!
-Productive & self-organized.
-Team player!
-
+##🙋‍♂️ Summary
+Experienced FrontEnd Engineer with BackEnd&DevOps skills.<br>
+Solution architecture & problem solver as well as bug fixer.<br>
+Project improver or scratch writer.<br>
+Remote lover but office hasler!<br>
+Productive & self-organized.<br>
+Team player!<br>
+<br>
 - Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
 - In Free time I am: traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
 
