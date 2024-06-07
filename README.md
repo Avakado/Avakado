@@ -1,8 +1,16 @@
-# Michael Kuzmin
+# Mykhailo Kuzmin
 
-_Software Engineer from Kharkiv, Ukraine🇺🇦_ <br>
+_Software Engineer_ <br>
 
-[Email](mailto:okidoki9710@gmail.com) / [Website](https://plantago.com.ua/) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx)
+[Email](mailto:okidoki9710@gmail.com) / [LinkedIn](https://www.linkedin.com/in/michael-kuzmin/) / [Telegram](https://t.me/chainlinexxx)
+
+🙋‍♂️
+Experienced FrontEnd Engineer with BackEnd&DevOps skills.
+Solution architecture & problem solver as well as bug fixer.
+Project improver or scratch writer.
+Remote lover but office hasler!
+Productive & self-organized.
+Team player!
 
 - Passionate about smart city technologies, ai, big data. Have a bunch of expirience with differnts domains and positions since 2016. Most of my career I worked in a scrum teams, which I am very pleased with. I like freedom in actions and in choosing technology or approaches.<br>
 - In Free time I am: traveling lover, cycling racer, snowboard rider, ecological+urbanism liker
@@ -89,6 +97,7 @@ two-month training to help people build their first website using js php and htm
 ## 💬 Languages
 
 **English**: Upper intermediate <br>
+**Deutsch**: Elementary proficiency <br>
 **Ukrainian**: Native <br>
 **Russian**: Native
 <br><br>
